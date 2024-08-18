@@ -32,6 +32,6 @@ public class shape {
 
     @Override
     public String toString() {
-        return "shape{" + "color = " + color + ", filled = " + filled + '}';
+        return "shape{" + "color = " + this.color + ", filled = " + this.filled + '}';
     }
 }

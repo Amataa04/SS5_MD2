@@ -6,14 +6,15 @@ import java.util.Scanner;
 public class triangle extends shape {
     private double side1, side2, side3;
 
-    public triangle() {
+    public triangle(double side1, double side2, double side3) {
+        super("no color", false);
         this.side1 = 1.0;
         this.side2 = 1.0;
         this.side3 = 1.0;
     }
 
     public triangle(String color, boolean filled, double side1, double side2, double side3) {
-        super("no color", false);
+        super(color, filled);
         this.side1 = side1;
         this.side2 = side2;
         this.side3 = side3;

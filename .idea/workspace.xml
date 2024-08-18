@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06bbbfe-8bf2-4521-9676-8932f4a9c0a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapRikkei/bai3/shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapRikkei/bai3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapRikkei/bai3/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapRikkei/bai3/triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,26 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BookImp.executor": "Run",
-    "Application.DemoList.executor": "Run",
-    "Application.ProductManager.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/HN-PTHB-JV240603/MD2/session5/Session5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/HN-PTHB-JV240603/MD2/Session5/Session5/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BookImp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HN-PTHB-JV240603/MD2/session5/Session5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/HN-PTHB-JV240603/MD2/Session5/Session5/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.test">
     <configuration name="BookImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Book.BookImp" />
@@ -140,7 +139,8 @@
       <workItem from="1723830369160" duration="4768000" />
       <workItem from="1723869549090" duration="622000" />
       <workItem from="1723923194326" duration="106000" />
-      <workItem from="1723974124312" duration="3237000" />
+      <workItem from="1723974124312" duration="3622000" />
+      <workItem from="1723988760660" duration="1749000" />
     </task>
     <servers />
   </component>

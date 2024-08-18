@@ -16,11 +16,10 @@ public class test {
         System.out.println("tam giác có màu hay không?(true/false)");
         boolean filled = sc.nextBoolean();
 
-        triangle Triangle = new triangle(color, filled, side1, side2, side3);
-        shape Shape = new shape();
-        System.out.println(Shape);
-        System.out.println(Triangle);
-        System.out.printf("Chu vi: %.1f\n", Triangle.perimeter());
-        System.out.printf("Diện tích: %.1f", Triangle.area());
+        triangle Triangle1 = new triangle(color, filled, side1, side2, side3);
+        // triangle Triangle2 = new triangle(side1, side2, side3);
+        System.out.println(Triangle1);
+        System.out.printf("Chu vi: %.1f\n", Triangle1.perimeter());
+        System.out.printf("Diện tích: %.1f", Triangle1.area());
     }
 }
